@@ -1,0 +1,11 @@
+.overall-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+
+    .container{
+        border: 1px solid blue;
+        width: 550px;
+        margin: auto;
+    }
+}

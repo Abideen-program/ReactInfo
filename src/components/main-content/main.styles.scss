@@ -1,0 +1,19 @@
+.info-container{
+    background: #282D35;
+    height: 400px;
+    padding: 50px 30px;
+    color: #fff;
+
+    h1{
+        font-size: 40px;
+    }
+
+    .info-list{
+        padding: 0 40px;
+
+        .list {
+            margin-top: 20px;
+            list-style: 1px disc red;
+        }
+    }
+}
